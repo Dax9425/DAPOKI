@@ -34,7 +34,9 @@
 $ ./dapoki.sh
 ```
 
-🚀 Installation
+--- 
+🚀 Installation 
+---
 You can install all required dependencies using this single command:
 
 ```bash
@@ -54,7 +56,9 @@ Replace your API key in the script:
 
 http://apilayer.net/api/validate?access_key=YOUR_API_KEY&number=$phone_number
 ```
+---
 📂 How to Use
+---
 ```bash
 
 git clone https://github.com/YOUR_USERNAME/DAPOKI.git
@@ -62,8 +66,9 @@ cd DAPOKI
 chmod +x dapoki.sh
 ./dapoki.sh
 ```
+---
 📸 Screenshots
-
+---
 ![image alt](https://github.com/Dax9425/DAPOKI/blob/587a5ed1fc0377522986c4d0bf5d7680b6b629dd/DAPOKI(1).png)
 
 ---
