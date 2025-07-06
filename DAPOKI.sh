@@ -48,7 +48,7 @@ dom(){
 }
 
 phon(){
-  read -p "Enter Phone Number: " phone_number
+  read -p "Enter Phone Number (e.g +919999999999): " phone_number
 }
 
 for a in {1..99999}
@@ -87,7 +87,7 @@ case $opt in
         echo "-------------------------------------------------------------------" | lolcat
         echo -e "\e[31m(0) Agressive Scan" 
         echo "(1) Simple Port Scan"
-        echo "(x) Back..."
+        echo "(x) Back"
         echo "-------------------------------------------------------------------" | lolcat
         echo "Select Option :"
         read scn
@@ -150,6 +150,7 @@ case $opt in
         ;;
     5) 
         ip;
+        shodan init hkAtOJBfcYqyYfakkKzLAK5ReHpbfTVy
         shodan host $target
         read -p "Would you like to save the results (y/n): " save
         if [[ "$save" == "y" ]]; then
