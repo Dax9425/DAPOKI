@@ -1,6 +1,6 @@
 # 🔎 DAPOKI – Information Gathering Toolkit
 
-![DAPOKI Banner](https://raw.githubusercontent.com/YOUR_USERNAME/DAPOKI/main/assets/banner.png)
+![DAPOKI Banner](DAPOKI (2).png)
 
 > **Version:** 1.0  
 > **Authors:** Daksh, Kinjal, Poojan  
