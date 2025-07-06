@@ -63,7 +63,7 @@ chmod +x dapoki.sh
 ./dapoki.sh
 ```
 📸 Screenshots
-
+![image alt]()
 ---
 📄 Authors: 
   Daksh, Kinjal, Poojan
