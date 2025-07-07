@@ -9,7 +9,7 @@ banner() {
   sleep 0.7
   echo -e "Authors : Daksh, Kinjal, Poojan" | lolcat 
   sleep 0.7
-  echo -e "All Rights Resversed By Team CTRL + ALT + DEFEND" | lolcat 
+  echo -e "Team : CTRL + ALT + DEFEND" | lolcat 
   sleep 0.7
 }
 
